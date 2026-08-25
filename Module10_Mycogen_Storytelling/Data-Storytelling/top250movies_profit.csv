@@ -1,0 +1,251 @@
+original_title,genres,popularity,original_language,production_countries,revenue,budget,estimated_profit
+Avatar,"['Action', 'Adventure', 'Fantasy']",185.070892,en,"['US', 'GB']",2787965087.0,237000000.0,2550965087.0
+Star Wars: The Force Awakens,"['Action', 'Adventure', 'Science Fiction']",31.626013,en,['US'],2068223624.0,245000000.0,1823223624.0
+Titanic,"['Drama', 'Romance', 'Thriller']",26.88907,en,['US'],1845034188.0,200000000.0,1645034188.0
+Jurassic World,"['Action', 'Adventure', 'Science Fiction']",32.790475,en,['US'],1513528810.0,150000000.0,1363528810.0
+Furious 7,['Action'],27.275687,en,"['JP', 'US']",1506249360.0,190000000.0,1316249360.0
+The Avengers,"['Science Fiction', 'Action', 'Adventure']",89.887648,en,['US'],1519557910.0,220000000.0,1299557910.0
+Harry Potter and the Deathly Hallows: Part 2,"['Family', 'Fantasy', 'Adventure']",24.990737,en,"['GB', 'US']",1342000000.0,125000000.0,1217000000.0
+Avengers: Age of Ultron,"['Action', 'Adventure', 'Science Fiction']",37.37942,en,['US'],1405403694.0,280000000.0,1125403694.0
+Frozen,"['Animation', 'Adventure', 'Family']",24.248243,en,['US'],1274219009.0,150000000.0,1124219009.0
+Beauty and the Beast,"['Family', 'Fantasy', 'Romance']",287.253654,en,"['GB', 'US']",1262886337.0,160000000.0,1102886337.0
+Minions,"['Family', 'Animation', 'Adventure']",547.488298,en,['US'],1156730962.0,74000000.0,1082730962.0
+The Lord of the Rings: The Return of the King,"['Adventure', 'Fantasy', 'Action']",29.324358,en,"['NZ', 'US']",1118888979.0,94000000.0,1024888979.0
+Iron Man 3,"['Action', 'Adventure', 'Science Fiction']",23.721243,en,"['CN', 'US']",1215439994.0,200000000.0,1015439994.0
+The Fate of the Furious,"['Action', 'Crime', 'Thriller']",48.573287,en,['US'],1238764765.0,250000000.0,988764765.0
+Despicable Me 3,"['Action', 'Animation', 'Adventure']",36.631519,en,['US'],1020063384.0,80000000.0,940063384.0
+Transformers: Dark of the Moon,"['Action', 'Science Fiction', 'Adventure']",4.503505,en,['US'],1123746996.0,195000000.0,928746996.0
+Skyfall,"['Action', 'Adventure', 'Thriller']",20.309585,en,"['GB', 'US']",1108561013.0,200000000.0,908561013.0
+Captain America: Civil War,"['Adventure', 'Action', 'Science Fiction']",145.882135,en,['US'],1153304495.0,250000000.0,903304495.0
+Despicable Me 2,"['Animation', 'Comedy', 'Family']",24.82355,en,['US'],970761885.0,76000000.0,894761885.0
+Transformers: Age of Extinction,"['Science Fiction', 'Action', 'Adventure']",18.495599,en,['US'],1091405097.0,210000000.0,881405097.0
+Zootopia,"['Animation', 'Adventure', 'Family']",26.024868,en,['US'],1023784195.0,150000000.0,873784195.0
+Toy Story 3,"['Animation', 'Family', 'Comedy']",16.96647,en,['US'],1066969703.0,200000000.0,866969703.0
+Pirates of the Caribbean: Dead Man's Chest,"['Adventure', 'Fantasy', 'Action']",29.455314,en,['US'],1065659812.0,200000000.0,865659812.0
+Jurassic Park,"['Adventure', 'Science Fiction']",8.863776,en,['US'],920100000.0,63000000.0,857100000.0
+Rogue One: A Star Wars Story,"['Action', 'Adventure', 'Science Fiction']",36.567575,en,['US'],1056057273.0,200000000.0,856057273.0
+Harry Potter and the Philosopher's Stone,"['Adventure', 'Fantasy', 'Family']",38.187238,en,"['GB', 'US']",976475550.0,125000000.0,851475550.0
+The Lord of the Rings: The Two Towers,"['Adventure', 'Fantasy', 'Action']",29.423537,en,"['NZ', 'US']",926287400.0,79000000.0,847287400.0
+Finding Nemo,"['Animation', 'Family']",25.497794,en,['US'],940335536.0,94000000.0,846335536.0
+The Dark Knight Rises,"['Action', 'Crime', 'Drama']",20.58258,en,['US'],1084939099.0,250000000.0,834939099.0
+Finding Dory,"['Adventure', 'Animation', 'Comedy']",14.477677,en,['US'],1028570889.0,200000000.0,828570889.0
+Alice in Wonderland,"['Family', 'Fantasy', 'Adventure']",17.285093,en,['US'],1025491110.0,200000000.0,825491110.0
+The Dark Knight,"['Drama', 'Action', 'Crime']",123.167259,en,"['GB', 'US']",1004558444.0,185000000.0,819558444.0
+Star Wars: Episode I - The Phantom Menace,"['Adventure', 'Action', 'Science Fiction']",15.649091,en,['US'],924317558.0,115000000.0,809317558.0
+The Secret Life of Pets,"['Animation', 'Family']",11.01395,en,['US'],875457937.0,75000000.0,800457937.0
+Ice Age: Dawn of the Dinosaurs,"['Animation', 'Comedy', 'Family']",12.980624,en,['US'],886686817.0,90000000.0,796686817.0
+The Jungle Book,"['Family', 'Adventure', 'Drama']",17.432758,en,"['GB', 'US']",966550600.0,175000000.0,791550600.0
+Harry Potter and the Order of the Phoenix,"['Adventure', 'Fantasy', 'Family']",21.3643,en,"['GB', 'US']",938212738.0,150000000.0,788212738.0
+E.T. the Extra-Terrestrial,"['Science Fiction', 'Adventure', 'Family']",19.358546,en,['US'],792965326.0,10500000.0,782465326.0
+Ice Age: Continental Drift,"['Animation', 'Comedy', 'Adventure']",13.26958,en,['US'],877244782.0,95000000.0,782244782.0
+The Lord of the Rings: The Fellowship of the Ring,"['Adventure', 'Fantasy', 'Action']",32.070725,en,"['NZ', 'US']",871368364.0,93000000.0,778368364.0
+Harry Potter and the Chamber of Secrets,"['Adventure', 'Fantasy', 'Family']",29.741452,en,"['DE', 'GB', 'US']",876688482.0,100000000.0,776688482.0
+The Hobbit: An Unexpected Journey,"['Adventure', 'Fantasy', 'Action']",23.253089,en,"['NZ', 'US']",1021103568.0,250000000.0,771103568.0
+Shrek 2,"['Adventure', 'Animation', 'Comedy']",16.22986,en,['US'],919838758.0,150000000.0,769838758.0
+Star Wars,"['Adventure', 'Action', 'Science Fiction']",42.149697,en,['US'],775398007.0,11000000.0,764398007.0
+Harry Potter and the Goblet of Fire,"['Adventure', 'Fantasy', 'Family']",24.903058,en,"['GB', 'US']",895921036.0,150000000.0,745921036.0
+The Lion King,"['Family', 'Animation', 'Drama']",21.605761,en,['US'],788241776.0,45000000.0,743241776.0
+Independence Day,"['Action', 'Adventure', 'Science Fiction']",17.634197,en,['US'],816969268.0,75000000.0,741969268.0
+Star Wars: Episode III - Revenge of the Sith,"['Science Fiction', 'Adventure', 'Action']",13.165421,en,['US'],850000000.0,113000000.0,737000000.0
+Deadpool,"['Action', 'Adventure', 'Comedy']",187.860492,en,['US'],783112979.0,58000000.0,725112979.0
+The Hunger Games: Catching Fire,"['Adventure', 'Action', 'Science Fiction']",25.309139,en,['US'],847423452.0,130000000.0,717423452.0
+The Twilight Saga: Breaking Dawn - Part 2,"['Adventure', 'Fantasy', 'Drama']",26.080995,en,['US'],829000000.0,120000000.0,709000000.0
+The Hobbit: The Desolation of Smaug,"['Adventure', 'Fantasy']",20.644776,en,"['NZ', 'US']",958400000.0,250000000.0,708400000.0
+The Hobbit: The Battle of the Five Armies,"['Action', 'Adventure', 'Fantasy']",31.718977,en,"['NZ', 'US']",956019788.0,250000000.0,706019788.0
+Harry Potter and the Deathly Hallows: Part 1,"['Adventure', 'Fantasy', 'Family']",23.300362,en,"['GB', 'US']",954305868.0,250000000.0,704305868.0
+Transformers: Revenge of the Fallen,"['Science Fiction', 'Action', 'Adventure']",4.351756,en,['US'],836297228.0,150000000.0,686297228.0
+Harry Potter and the Half-Blood Prince,"['Adventure', 'Fantasy', 'Family']",19.083723,en,"['GB', 'US']",933959197.0,250000000.0,683959197.0
+Spider-Man,"['Fantasy', 'Action']",29.413341,en,['US'],821708551.0,139000000.0,682708551.0
+Inside Out,"['Drama', 'Comedy', 'Animation']",23.985587,en,['US'],857611174.0,175000000.0,682611174.0
+Wonder Woman,"['Action', 'Adventure', 'Fantasy']",294.337037,en,['US'],820580447.0,149000000.0,671580447.0
+Pirates of the Caribbean: On Stranger Tides,"['Adventure', 'Action', 'Fantasy']",27.88772,en,['US'],1045713802.0,380000000.0,665713802.0
+Inception,"['Action', 'Thriller', 'Science Fiction']",29.108149,en,"['GB', 'US']",825532764.0,160000000.0,665532764.0
+Guardians of the Galaxy Vol. 2,"['Action', 'Adventure', 'Comedy']",185.330992,en,['US'],863416141.0,200000000.0,663416141.0
+Pirates of the Caribbean: At World's End,"['Adventure', 'Fantasy', 'Action']",31.363664,en,['US'],961000000.0,300000000.0,661000000.0
+The Twilight Saga: New Moon,"['Adventure', 'Fantasy', 'Drama']",30.121292,en,['US'],709827462.0,50000000.0,659827462.0
+Harry Potter and the Prisoner of Azkaban,"['Adventure', 'Fantasy', 'Family']",28.460276,en,"['GB', 'US']",789804554.0,130000000.0,659804554.0
+The Da Vinci Code,"['Thriller', 'Mystery']",18.566706,en,"['US', 'MT', 'FR']",767820459.0,125000000.0,642820459.0
+Shrek the Third,"['Fantasy', 'Adventure', 'Animation']",14.072479,en,['US'],798958165.0,160000000.0,638958165.0
+Spectre,"['Action', 'Adventure', 'Crime']",24.926577,en,"['GB', 'US']",880674609.0,245000000.0,635674609.0
+Spider-Man 3,"['Fantasy', 'Action', 'Adventure']",27.614265,en,['US'],890871626.0,258000000.0,632871626.0
+The Sixth Sense,"['Mystery', 'Thriller', 'Drama']",18.449169,en,['US'],672806292.0,40000000.0,632806292.0
+The Twilight Saga: Eclipse,"['Adventure', 'Fantasy', 'Drama']",34.047399,en,['US'],698491347.0,68000000.0,630491347.0
+Fantastic Beasts and Where to Find Them,"['Adventure', 'Family', 'Fantasy']",41.051421,en,"['GB', 'US']",809342332.0,180000000.0,629342332.0
+Fast & Furious 6,"['Action', 'Thriller', 'Crime']",1.657637,en,['US'],788679850.0,160000000.0,628679850.0
+The Hunger Games: Mockingjay - Part 1,"['Science Fiction', 'Adventure', 'Thriller']",147.098006,en,['US'],752100229.0,125000000.0,627100229.0
+Batman v Superman: Dawn of Justice,"['Action', 'Adventure', 'Fantasy']",31.435879,en,['US'],873260194.0,250000000.0,623260194.0
+Forrest Gump,"['Comedy', 'Drama', 'Romance']",48.307194,en,['US'],677945399.0,55000000.0,622945399.0
+The Hunger Games,"['Science Fiction', 'Adventure', 'Fantasy']",20.031667,en,['US'],691210692.0,75000000.0,616210692.0
+Gravity,"['Science Fiction', 'Thriller', 'Drama']",18.50194,en,"['GB', 'US']",716392705.0,105000000.0,611392705.0
+Guardians of the Galaxy,"['Action', 'Science Fiction', 'Adventure']",53.291601,en,"['GB', 'US']",773328629.0,170000000.0,603328629.0
+The Twilight Saga: Breaking Dawn - Part 1,"['Adventure', 'Fantasy', 'Romance']",25.9725,en,['US'],712171856.0,110000000.0,602171856.0
+Madagascar 3: Europe's Most Wanted,"['Animation', 'Family']",13.829042,en,['US'],746921274.0,145000000.0,601921274.0
+Indiana Jones and the Kingdom of the Crystal Skull,"['Adventure', 'Action']",12.577266,en,['US'],786636033.0,185000000.0,601636033.0
+The Matrix Reloaded,"['Adventure', 'Action', 'Thriller']",16.229317,en,"['AU', 'US']",738599701.0,150000000.0,588599701.0
+Shrek Forever After,"['Comedy', 'Adventure', 'Fantasy']",11.803808,en,['US'],752600867.0,165000000.0,587600867.0
+Spider-Man 2,"['Action', 'Adventure', 'Fantasy']",10.834506,en,['US'],783766341.0,200000000.0,583766341.0
+The Passion of the Christ,['Drama'],13.194168,en,['US'],611899420.0,30000000.0,581899420.0
+Ice Age: The Meltdown,"['Animation', 'Family', 'Comedy']",16.646029,en,['US'],660940780.0,80000000.0,580940780.0
+Maleficent,"['Fantasy', 'Adventure', 'Action']",19.467404,en,['US'],758539785.0,180000000.0,578539785.0
+Suicide Squad,"['Action', 'Adventure', 'Crime']",42.965027,en,['US'],745600054.0,175000000.0,570600054.0
+2012,"['Action', 'Adventure', 'Science Fiction']",16.698628,en,"['CA', 'US']",769653595.0,200000000.0,569653595.0
+Alice in Wonderland,"['Animation', 'Adventure', 'Family']",16.488937,en,['US'],572000000.0,3000000.0,569000000.0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","['Adventure', 'Family', 'Fantasy']",18.13542,en,"['GB', 'US']",748806957.0,180000000.0,568806957.0
+Pirates of the Caribbean: Dead Men Tell No Tales,"['Adventure', 'Action', 'Fantasy']",133.82782,en,['US'],794191988.0,230000000.0,564191988.0
+Up,"['Animation', 'Comedy', 'Family']",19.330884,en,['US'],735099082.0,175000000.0,560099082.0
+Transformers,"['Adventure', 'Science Fiction', 'Action']",5.587707,en,['US'],709709780.0,150000000.0,559709780.0
+Mamma Mia!,"['Comedy', 'Romance']",10.534437,en,"['DE', 'GB', 'US']",609841637.0,52000000.0,557841637.0
+Sing,"['Animation', 'Comedy', 'Drama']",20.045673,en,['US'],632443719.0,75000000.0,557443719.0
+Mission: Impossible - Ghost Protocol,"['Action', 'Thriller', 'Adventure']",14.25843,en,"['CZ', 'US', 'AE']",694713380.0,145000000.0,549713380.0
+Captain America: The Winter Soldier,"['Action', 'Adventure', 'Science Fiction']",18.717704,en,['US'],714766572.0,170000000.0,544766572.0
+Monsters University,"['Animation', 'Family']",16.267502,en,['US'],743559607.0,200000000.0,543559607.0
+Dawn of the Planet of the Apes,"['Science Fiction', 'Action', 'Drama']",75.385211,en,['US'],710644566.0,170000000.0,540644566.0
+Return of the Jedi,"['Adventure', 'Action', 'Science Fiction']",14.586087,en,['US'],572700000.0,32350000.0,540350000.0
+The Incredibles,"['Action', 'Adventure', 'Animation']",22.220214,en,['US'],631442092.0,92000000.0,539442092.0
+The Amazing Spider-Man,"['Action', 'Adventure', 'Fantasy']",31.102267,en,['US'],752215857.0,215000000.0,537215857.0
+Mission: Impossible - Rogue Nation,"['Action', 'Adventure', 'Thriller']",17.836882,en,"['CN', 'US']",682330139.0,150000000.0,532330139.0
+Fifty Shades of Grey,"['Drama', 'Romance', 'Thriller']",33.068431,en,['US'],571006128.0,40000000.0,531006128.0
+Star Wars: Episode II - Attack of the Clones,"['Adventure', 'Action', 'Science Fiction']",14.072511,en,['US'],649398328.0,120000000.0,529398328.0
+The Martian,"['Drama', 'Adventure', 'Science Fiction']",25.62993,en,['US'],630161890.0,108000000.0,522161890.0
+The Empire Strikes Back,"['Adventure', 'Action', 'Science Fiction']",19.470959,en,['US'],538400000.0,18000000.0,520400000.0
+Logan,"['Action', 'Drama', 'Science Fiction']",54.581997,en,['US'],616801808.0,97000000.0,519801808.0
+Kung Fu Panda 2,"['Animation', 'Family']",11.481921,en,['US'],665692281.0,150000000.0,515692281.0
+Pirates of the Caribbean: The Curse of the Black Pearl,"['Adventure', 'Fantasy', 'Action']",47.326665,en,['US'],655011224.0,140000000.0,515011224.0
+Doctor Strange,"['Action', 'Adventure', 'Fantasy']",43.847654,en,['US'],677718395.0,165000000.0,512718395.0
+Interstellar,"['Adventure', 'Drama', 'Science Fiction']",32.213481,en,"['CA', 'US', 'GB']",675120017.0,165000000.0,510120017.0
+The Amazing Spider-Man 2,"['Action', 'Adventure', 'Fantasy']",26.23687,en,['US'],705717432.0,200000000.0,505717432.0
+Kung Fu Panda,"['Adventure', 'Animation', 'Family']",16.897541,en,['US'],631744560.0,130000000.0,501744560.0
+Fast Five,"['Action', 'Thriller', 'Crime']",1.420361,en,['US'],626137675.0,125000000.0,501137675.0
+Men in Black,"['Action', 'Adventure', 'Comedy']",15.781024,en,['US'],589390539.0,90000000.0,499390539.0
+Ted,"['Comedy', 'Fantasy']",19.638605,en,['US'],549368315.0,50000000.0,499368315.0
+X-Men: Days of Future Past,"['Action', 'Adventure', 'Fantasy']",26.058586,en,"['GB', 'US']",747862775.0,250000000.0,497862775.0
+The Hunger Games: Mockingjay - Part 2,"['Action', 'Adventure', 'Science Fiction']",26.628178,en,"['DE', 'US']",653428261.0,160000000.0,493428261.0
+美人鱼,"['Comedy', 'Science Fiction', 'Fantasy']",5.296052,en,['CN'],553810228.0,60720000.0,493090228.0
+Moana,"['Adventure', 'Animation', 'Family']",9.143457,en,['US'],643034466.0,150000000.0,493034466.0
+Life of Pi,"['Adventure', 'Drama', 'Action']",14.045042,en,"['US', 'TW', 'GB']",609016565.0,120000000.0,489016565.0
+Big Hero 6,"['Adventure', 'Family', 'Animation']",213.849907,en,['US'],652105443.0,165000000.0,487105443.0
+American Sniper,"['War', 'Action']",19.228561,en,['US'],542307423.0,58800000.0,483507423.0
+Ghost,"['Fantasy', 'Drama', 'Thriller']",11.945397,en,['US'],505000000.0,22000000.0,483000000.0
+Aladdin,"['Animation', 'Family', 'Comedy']",16.357419,en,['US'],504050219.0,28000000.0,476050219.0
+Thor: The Dark World,"['Action', 'Adventure', 'Fantasy']",34.905447,en,['US'],644571402.0,170000000.0,474571402.0
+Despicable Me,"['Animation', 'Family']",22.274502,en,['US'],543513985.0,69000000.0,474513985.0
+Hancock,"['Fantasy', 'Action']",11.017324,en,['US'],624029371.0,150000000.0,474029371.0
+Ratatouille,"['Animation', 'Comedy', 'Family']",20.50803,en,['US'],623722818.0,150000000.0,473722818.0
+Night at the Museum,"['Action', 'Adventure', 'Comedy']",16.661966,en,"['US', 'GB']",574480841.0,110000000.0,464480841.0
+How to Train Your Dragon 2,"['Fantasy', 'Action', 'Adventure']",12.256689,en,['US'],609123048.0,145000000.0,464123048.0
+Jaws,"['Horror', 'Thriller', 'Adventure']",19.726114,en,['US'],470654000.0,7000000.0,463654000.0
+War of the Worlds,"['Adventure', 'Thriller', 'Science Fiction']",19.929377,en,['US'],591739379.0,132000000.0,459739379.0
+Home Alone,"['Comedy', 'Family']",0.702543,en,['US'],476684675.0,18000000.0,458684675.0
+Madagascar,"['Family', 'Animation']",16.136217,en,['US'],532680671.0,75000000.0,457680671.0
+Madagascar: Escape 2 Africa,"['Family', 'Animation']",12.668733,en,['US'],603900354.0,150000000.0,453900354.0
+The Smurfs,"['Animation', 'Family', 'Adventure']",10.219758,en,['US'],563749323.0,110000000.0,453749323.0
+The Simpsons Movie,"['Animation', 'Comedy', 'Family']",14.302911,en,['US'],527068851.0,75000000.0,452068851.0
+The Croods,"['Adventure', 'Animation', 'Comedy']",14.757874,en,['US'],585178928.0,135000000.0,450178928.0
+Casino Royale,"['Adventure', 'Action', 'Thriller']",23.065078,en,"['IT', 'GB', 'US']",599045960.0,150000000.0,449045960.0
+Pretty Woman,"['Romance', 'Comedy']",13.348451,en,['US'],463000000.0,14000000.0,449000000.0
+Cinderella,"['Romance', 'Fantasy', 'Family']",19.801128,en,"['GB', 'US']",543514353.0,95000000.0,448514353.0
+"Monsters, Inc.","['Animation', 'Comedy', 'Family']",26.419962,en,['US'],562816256.0,115000000.0,447816256.0
+Iron Man,"['Action', 'Science Fiction', 'Adventure']",22.073099,en,['US'],585174222.0,140000000.0,445174222.0
+Man of Steel,"['Action', 'Adventure', 'Fantasy']",18.538834,en,"['GB', 'US']",662845518.0,225000000.0,437845518.0
+Meet the Fockers,"['Comedy', 'Romance']",11.876386,en,['US'],516642939.0,80000000.0,436642939.0
+I Am Legend,"['Drama', 'Horror', 'Action']",11.379355,en,['US'],585349010.0,150000000.0,435349010.0
+Sherlock Holmes,"['Action', 'Adventure', 'Crime']",15.68604,en,"['DE', 'GB', 'US']",524028679.0,90000000.0,434028679.0
+The Exorcist,"['Drama', 'Horror', 'Thriller']",12.137595,en,['US'],441306145.0,8000000.0,433306145.0
+Indiana Jones and the Last Crusade,"['Adventure', 'Action']",14.788987,en,['US'],474171806.0,48000000.0,426171806.0
+Shrek,"['Adventure', 'Animation', 'Comedy']",17.987728,en,['US'],484409218.0,60000000.0,424409218.0
+The Hangover,['Comedy'],23.947351,en,"['DE', 'US']",459270619.0,35000000.0,424270619.0
+Iron Man 2,"['Adventure', 'Action', 'Science Fiction']",19.083344,en,['US'],623933331.0,200000000.0,423933331.0
+Mission: Impossible II,"['Adventure', 'Action', 'Thriller']",18.97178,en,"['DE', 'US']",546388105.0,125000000.0,421388105.0
+Terminator 2: Judgment Day,"['Action', 'Thriller', 'Science Fiction']",22.661695,en,"['FR', 'US']",520000000.0,100000000.0,420000000.0
+Dunkirk,"['Action', 'Drama', 'History']",30.938854,en,"['NL', 'FR', 'GB']",519876949.0,100000000.0,419876949.0
+The Day After Tomorrow,"['Action', 'Adventure', 'Science Fiction']",15.049695,en,['US'],544272402.0,125000000.0,419272402.0
+Mrs. Doubtfire,"['Comedy', 'Drama', 'Family']",11.16553,en,['US'],441286195.0,25000000.0,416286195.0
+La La Land,"['Comedy', 'Drama', 'Music']",19.681686,en,['US'],445435700.0,30000000.0,415435700.0
+Armageddon,"['Action', 'Thriller', 'Science Fiction']",13.235112,en,['US'],553799566.0,140000000.0,413799566.0
+Intouchables,"['Drama', 'Comedy']",16.086919,fr,['FR'],426480871.0,13000000.0,413480871.0
+Saving Private Ryan,"['Drama', 'History', 'War']",21.758054,en,['US'],481840909.0,70000000.0,411840909.0
+The Lego Movie,"['Adventure', 'Animation', 'Comedy']",16.418133,en,['US'],469160692.0,60000000.0,409160692.0
+Toy Story 2,"['Animation', 'Comedy', 'Family']",17.547693,en,['US'],497366869.0,90000000.0,407366869.0
+Bruce Almighty,"['Fantasy', 'Comedy']",15.947524,en,['US'],484572835.0,80000000.0,404572835.0
+Twister,"['Action', 'Adventure', 'Drama']",8.739144,en,['US'],494471524.0,92000000.0,402471524.0
+Dances with Wolves,"['Adventure', 'Drama', 'Western']",11.654349,en,"['GB', 'US']",424208848.0,22000000.0,402208848.0
+The Matrix,"['Action', 'Science Fiction']",33.366332,en,"['AU', 'US']",463517383.0,63000000.0,400517383.0
+The King's Speech,"['Drama', 'History']",11.260387,en,['GB'],414211549.0,15000000.0,399211549.0
+Men in Black 3,"['Action', 'Comedy', 'Science Fiction']",10.684385,en,['US'],624026776.0,225000000.0,399026776.0
+The Revenant,"['Western', 'Drama', 'Adventure']",23.501228,en,"['CA', 'HK', 'TW']",532950503.0,135000000.0,397950503.0
+Rio 2,"['Animation', 'Adventure', 'Comedy']",8.18534,en,['US'],500188435.0,103000000.0,397188435.0
+Gone with the Wind,"['Drama', 'Romance', 'War']",14.240357,en,['US'],400176459.0,4000000.0,396176459.0
+Rio,"['Animation', 'Adventure', 'Comedy']",10.403228,en,['US'],484635760.0,90000000.0,394635760.0
+Hotel Transylvania 2,"['Animation', 'Comedy', 'Family']",11.760218,en,['US'],473226958.0,80000000.0,393226958.0
+Rise of the Planet of the Apes,"['Thriller', 'Action', 'Drama']",41.613762,en,['US'],482860185.0,93000000.0,389860185.0
+Ant-Man,"['Science Fiction', 'Action', 'Adventure']",26.882388,en,['US'],519311965.0,130000000.0,389311965.0
+Rain Man,['Drama'],11.267467,en,['US'],412800000.0,25000000.0,387800000.0
+Quantum of Solace,"['Adventure', 'Action', 'Thriller']",13.67812,en,"['GB', 'US']",586090727.0,200000000.0,386090727.0
+The Bodyguard,"['Thriller', 'Action', 'Drama']",9.805017,en,['US'],411006740.0,25000000.0,386006740.0
+Kong: Skull Island,"['Action', 'Adventure', 'Fantasy']",29.429112,en,['US'],566652812.0,185000000.0,381652812.0
+Les Misérables,"['Drama', 'Music', 'Romance']",13.52408,en,"['GB', 'US']",441809770.0,61000000.0,380809770.0
+Mission: Impossible,"['Adventure', 'Action', 'Thriller']",15.793477,en,['US'],457696359.0,80000000.0,377696359.0
+Batman,"['Fantasy', 'Action']",19.10673,en,"['GB', 'US']",411348924.0,35000000.0,376348924.0
+Kung Fu Panda 3,"['Action', 'Adventure', 'Animation']",14.696548,en,"['CN', 'US']",521170825.0,145000000.0,376170825.0
+The Boss Baby,"['Animation', 'Comedy', 'Family']",13.392824,en,['US'],498814908.0,125000000.0,373814908.0
+The Bourne Ultimatum,"['Action', 'Drama', 'Mystery']",18.173269,en,"['DE', 'US']",442824138.0,70000000.0,372824138.0
+Raiders of the Lost Ark,"['Adventure', 'Action']",19.901576,en,['US'],389925971.0,18000000.0,371925971.0
+Godzilla,"['Action', 'Science Fiction', 'Thriller']",14.019239,en,"['JP', 'US']",529076069.0,160000000.0,369076069.0
+Mr. & Mrs. Smith,"['Action', 'Comedy', 'Drama']",15.724373,en,['US'],478207520.0,110000000.0,368207520.0
+Alvin and the Chipmunks: The Squeakquel,"['Comedy', 'Family', 'Animation']",9.909961,en,['US'],443140005.0,75000000.0,368140005.0
+X-Men: Apocalypse,['Science Fiction'],28.712522,en,['US'],543934787.0,178000000.0,365934787.0
+Ocean's Eleven,"['Thriller', 'Crime']",12.114932,en,['US'],450717150.0,85000000.0,365717150.0
+My Big Fat Greek Wedding,"['Comedy', 'Drama', 'Romance']",6.719949,en,"['CA', 'US']",368744044.0,5000000.0,363744044.0
+Slumdog Millionaire,"['Drama', 'Romance']",11.258181,en,"['IN', 'GB', 'US']",377910544.0,15000000.0,362910544.0
+Back to the Future,"['Adventure', 'Comedy', 'Science Fiction']",25.778509,en,['US'],381109762.0,19000000.0,362109762.0
+San Andreas,"['Action', 'Drama', 'Thriller']",20.547925,en,"['CA', 'US', 'AU']",470490832.0,110000000.0,360490832.0
+Cars 2,"['Animation', 'Family', 'Adventure']",13.693002,en,['US'],559852396.0,200000000.0,359852396.0
+300,"['Action', 'Adventure', 'War']",18.108408,en,['US'],422610419.0,65000000.0,357610419.0
+Twilight,"['Adventure', 'Fantasy', 'Drama']",31.282029,en,['US'],392616625.0,37000000.0,355616625.0
+君の名は。,"['Romance', 'Animation', 'Drama']",34.461252,ja,['JP'],355298270.0,0.0,355298270.0
+Gladiator,"['Action', 'Drama', 'Adventure']",23.186667,en,"['GB', 'US']",457640427.0,103000000.0,354640427.0
+Brave,"['Animation', 'Adventure', 'Comedy']",15.876341,en,['US'],538983207.0,185000000.0,353983207.0
+Beauty and the Beast,"['Romance', 'Family', 'Animation']",23.433511,en,['US'],377350553.0,25000000.0,352350553.0
+Teenage Mutant Ninja Turtles,"['Science Fiction', 'Action', 'Adventure']",22.337973,en,['US'],477200000.0,125000000.0,352200000.0
+Sex and the City,"['Comedy', 'Drama', 'Romance']",9.170332,en,['US'],415252786.0,65000000.0,350252786.0
+There's Something About Mary,"['Romance', 'Comedy']",11.688958,en,['US'],369884651.0,23000000.0,346884651.0
+捉妖记,"['Action', 'Comedy', 'Fantasy']",5.361771,zh,"['CN', 'HK']",385284817.0,40000000.0,345284817.0
+Transformers: The Last Knight,"['Action', 'Science Fiction', 'Thriller']",39.186819,en,['US'],604942143.0,260000000.0,344942143.0
+Toy Story,"['Animation', 'Comedy', 'Family']",21.946943,en,['US'],373554033.0,30000000.0,343554033.0
+King Kong,"['Adventure', 'Drama', 'Action']",19.761164,en,"['NZ', 'US', 'DE']",550000000.0,207000000.0,343000000.0
+Robin Hood: Prince of Thieves,['Adventure'],10.639244,en,['US'],390493908.0,48000000.0,342493908.0
+Cars,"['Animation', 'Adventure', 'Comedy']",18.907948,en,['US'],461983149.0,120000000.0,341983149.0
+Top Gun,"['Action', 'Romance', 'War']",20.301019,en,['US'],356830601.0,15000000.0,341830601.0
+WALL·E,"['Animation', 'Family']",16.088366,en,['US'],521311860.0,180000000.0,341311860.0
+American Beauty,['Drama'],20.726578,en,['US'],356296601.0,15000000.0,341296601.0
+Home Alone 2: Lost in New York,"['Comedy', 'Family', 'Adventure']",13.293722,en,['US'],358991681.0,18000000.0,340991681.0
+Cast Away,"['Adventure', 'Drama']",21.296343,en,['US'],429632142.0,90000000.0,339632142.0
+Signs,"['Drama', 'Thriller', 'Science Fiction']",11.211568,en,['US'],408247917.0,72000000.0,336247917.0
+The Mummy,"['Adventure', 'Action', 'Fantasy']",23.984065,en,['US'],415885488.0,80000000.0,335885488.0
+The Mummy Returns,"['Adventure', 'Action', 'Fantasy']",16.945657,en,['US'],433013274.0,98000000.0,335013274.0
+Kingsman: The Secret Service,"['Crime', 'Comedy', 'Action']",28.224212,en,"['GB', 'US']",414351546.0,81000000.0,333351546.0
+World War Z,"['Action', 'Drama', 'Horror']",26.114917,en,"['US', 'MT']",531865000.0,200000000.0,331865000.0
+Tangled,"['Animation', 'Family']",14.684761,en,['US'],591794936.0,260000000.0,331794936.0
+Taken 2,"['Action', 'Crime', 'Thriller']",16.376482,en,['FR'],376141306.0,45000000.0,331141306.0
+How to Train Your Dragon,"['Fantasy', 'Adventure', 'Animation']",14.416681,en,['US'],494878759.0,165000000.0,329878759.0
+The Mask,"['Romance', 'Comedy', 'Crime']",14.13488,en,['US'],351583407.0,23000000.0,328583407.0
+National Treasure: Book of Secrets,"['Action', 'Adventure', 'Mystery']",12.854373,en,['US'],457363168.0,130000000.0,327363168.0
+Django Unchained,"['Drama', 'Western']",19.785025,en,['US'],425368238.0,100000000.0,325368238.0
+Charlie and the Chocolate Factory,"['Adventure', 'Comedy', 'Family']",22.038405,en,"['AU', 'GB', 'US']",474968763.0,150000000.0,324968763.0
+The Fugitive,"['Adventure', 'Action', 'Thriller']",10.08937,en,['US'],368875760.0,44000000.0,324875760.0
+Ice Age,"['Animation', 'Comedy', 'Family']",17.328902,en,['US'],383257136.0,59000000.0,324257136.0
+Fifty Shades Darker,"['Drama', 'Romance']",29.130443,en,['US'],378827494.0,55000000.0,323827494.0
+Crocodile Dundee,"['Adventure', 'Comedy']",7.791212,en,['AU'],328203506.0,5000000.0,323203506.0
+Troy,"['Adventure', 'Drama', 'War']",15.387275,en,"['US', 'MT', 'GB']",497409852.0,175000000.0,322409852.0
+Notting Hill,"['Romance', 'Comedy', 'Drama']",9.874043,en,"['GB', 'US']",363889678.0,42000000.0,321889678.0
+Speed,"['Action', 'Adventure', 'Crime']",10.859292,en,['US'],350448145.0,30000000.0,320448145.0
+The Karate Kid,"['Action', 'Adventure', 'Drama']",11.690781,en,"['CN', 'US']",357852395.0,40000000.0,317852395.0
+The Last Samurai,"['Drama', 'Action', 'War']",19.582325,en,"['JP', 'US', 'NZ']",456758981.0,140000000.0,316758981.0
+Black Swan,"['Drama', 'Thriller']",12.989056,en,['US'],327803731.0,13000000.0,314803731.0
+The Maze Runner,"['Action', 'Mystery', 'Science Fiction']",76.93789,en,['US'],348319861.0,34000000.0,314319861.0
+Pearl Harbor,"['History', 'Romance', 'War']",11.419388,en,['US'],449220945.0,140000000.0,309220945.0
+Gone Girl,"['Mystery', 'Thriller', 'Drama']",154.801009,en,['US'],369330363.0,61000000.0,308330363.0
+Wreck-It Ralph,"['Family', 'Animation', 'Comedy']",13.697597,en,['US'],471222889.0,165000000.0,306222889.0
+Fatal Attraction,"['Romance', 'Drama', 'Thriller']",14.260779,en,['US'],320145693.0,14000000.0,306145693.0
+The Conjuring,"['Horror', 'Thriller']",14.90169,en,['US'],318000141.0,13000000.0,305000141.0
+Indiana Jones and the Temple of Doom,"['Adventure', 'Action']",15.802306,en,['US'],333000000.0,28000000.0,305000000.0

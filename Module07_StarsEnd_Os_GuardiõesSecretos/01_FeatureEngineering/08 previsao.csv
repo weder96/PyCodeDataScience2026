@@ -1,0 +1,5 @@
+Survived,Pclass,Sex,Age,SibSp,Parch,Fare,Embarked,Titulos
+,2,female,55.0,0,0,16.0,S,King
+,1,female,58.0,0,0,146.5208,C,Miss
+,2,male,39.0,0,0,26.0,S,Mr
+,3,female,15.0,0,0,7.225,C,Miss
