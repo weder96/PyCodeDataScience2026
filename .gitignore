@@ -1,0 +1,44 @@
+# ---------------------------------------------------
+# Ambientes Virtuais
+# ---------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# ---------------------------------------------------
+# Jupyter Notebook
+# ---------------------------------------------------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+
+# ---------------------------------------------------
+# Ficheiros de Dados (Pandas / Data Science)
+# (Descomente os formatos que não quer enviar para o Git)
+# ---------------------------------------------------
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.xls
+*.xlsx
+*.sqlite
+*.db
+*.json
+
+# ---------------------------------------------------
+# Python Caches e Ficheiros Compilados
+# ---------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+
+# ---------------------------------------------------
+# Sistema Operativo
+# ---------------------------------------------------
+.DS_Store
+Thumbs.db

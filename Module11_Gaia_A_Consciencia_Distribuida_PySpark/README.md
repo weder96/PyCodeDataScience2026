@@ -1,0 +1,3 @@
+Na série Fundação, Gaia é um planeta onde todos os seres vivos e objetos inanimados compartilham uma consciência coletiva. Nenhuma entidade age isoladamente; bilhões de partes operam em perfeita sincronia para processar informações e tomar decisões como um único superorganismo.
+
+Essa é a metáfora perfeita para o PySpark e o processamento distribuído. Assim como Gaia, o Spark pega um trabalho massivo e o divide entre múltiplos nós (computadores) em um cluster. Eles trabalham em paralelo, compartilhando a carga, mas respondem a você como se fossem uma única máquina poderosa. Se um nó falhar, a "consciência" coletiva do cluster redistribui o trabalho, garantindo tolerância a falhas (exatamente como os RDDs funcionam).

@@ -1,0 +1,12 @@
+from pyspark.sql.types import *
+
+schema = StructType([
+    StructField(name = 'id',dataType=IntegerType()), 
+    StructField(name='name',dataType=StringType())
+])
+
+data = [(1,"Rohit"),(2,"Ajay")]
+
+df = spark.createDataFrame(data = data, schema=schema)
+df.show()
+df.printSchema()
